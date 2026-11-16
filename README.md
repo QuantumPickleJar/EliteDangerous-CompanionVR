@@ -1,2 +1,4 @@
 # EliteDangerous-CompanionVR
-Through DesktopPlus, enables near-seamless Elite: Dangerous integration of third party tools like EDEXO and EDDiscovery into moveable panels viewable in VR
+Open-source, configurable VR overlays for Elite Dangerous.
+
+Through DesktopPlus, this project brings exobiology, navigation, and companion telemetry tools into movable panels for SteamVR and compatible OpenXR environments.
